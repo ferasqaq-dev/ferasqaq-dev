@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firas Qaq</h1>
+<h1 align="center">Hi 👋, I'm Feras Qaq</h1>
 <h3 align="center">A Computer Science Student & Software Developer</h3>
 
 <p align="center">
@@ -73,8 +73,8 @@ A complete HR solution with:
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **firas.qaq@example.com**  
-- 💼 LinkedIn: *add later*  
+- 📧 Email: **ferasmuin@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/feras-qaq-a603a6302/**
 - 📱 Always available for collaborations & new projects  
 
 ---
